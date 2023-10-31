@@ -1,0 +1,17 @@
+{
+	"Simple HTML Document": {
+		"prefix": "htmlsnippet",
+		"body": [
+			"<!--Eimantas Repsys EIRf-22-->"
+			"<!DOCTYPE html>",
+			"<html>",
+			"  <head>",
+			"  </head>",
+			"  <body>",
+			"  </body>",
+			"</html>"
+		],
+		"description": "Generuoti elementarų HTML dokumentą"
+	}
+	
+}
